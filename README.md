@@ -8,6 +8,20 @@ An end-to-end Natural Language Processing (NLP) project that classifies SMS mess
 
 The project compares **Multinomial Naive Bayes, Logistic Regression, and Long Short-Term Memory (LSTM)** models and implements an interactive Streamlit application for real-time SMS classification.
 
+## 🚀 Live Application
+
+Try the interactive SMS Spam Detection app:
+
+**Streamlit Live Demo:** https://sms-spam-detector-lstm.streamlit.app/
+
+Enter an SMS message to classify it as **Spam or Ham (Legitimate)** using the trained LSTM model.
+
+**Test Performance:**
+- Accuracy: 97.67%
+- Precision: 94.07%
+- Recall: 86.72%
+- F1-Score: 90.24%
+
 ## 📌 Project Overview
 
 Spam messages are an everyday communication challenge. They may contain misleading advertisements, promotional content, phishing attempts, or fraudulent offers.
